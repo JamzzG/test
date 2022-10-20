@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    color:red;   
+}
+h1:hover{
+    background-color: aquamarine;
+    color: navy;
+    font-size: 44px;
+    }
